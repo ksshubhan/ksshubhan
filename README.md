@@ -1,4 +1,4 @@
-## Hi, I'm Sshubhan
+## Hi, I'm Sshubhan!
 
 Third-year Computer Science at the **University of Manchester**. I'm interested in low-latency systems (lock-free data structures, memory ordering, market data) and in building full-stack products people actually use.
 
